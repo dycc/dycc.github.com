@@ -8,7 +8,9 @@ tags : [intro, beginner, jekyll, tutorial]
 
 ## Git简介
 
-引用：_config.yml中的键值均引用到其他页面{{ site.title }}；
+### What is Jekyll?
+
+What is Jekyll?What is Jekyll?What is Jekyll?What is Jekyll?What is Jekyll?
 
 ### What is Jekyll?
 
@@ -26,14 +28,12 @@ Markdown 的语法全由一些符号所组成，这些符号经过精挑细选�
 使用一个或多个空行分隔内容段来生成段落 <p>。
 标题（h1~h6）格式为使用相应个数的“#”作前缀，比如以下代码表示 h3：
 
-** this is a level-3 header.**
-
 - 使用 4 个以上 空格或 1 个以上 的 tab 来标记代码段落，它们将被<pre> 和 <code> 包裹，这意味着代码段内的字体会是 monospace家族的，并且特殊符号不会被转义。
 - 使用 [test](http://example.net "optional title") 来标记普通链接。
 - 使用 ![img](http://example.net/img.png "optional title") 来标记图片。
 
 # 5.3 Notepad++支持Markdown语法高亮
 
-- 1. 下载userDefineLang.xml
-- 2. 将 userDefineLang.xml 放置到此目录：C:\Users\Administrator\AppData\Roaming\Notepad++
-- 3. 重启 Notepad++，在语言菜单下可以看到自定义的 Markdown 高亮规则
+- 下载userDefineLang.xml
+- 将 userDefineLang.xml 放置到此目录：C:\Users\Administrator\AppData\Roaming\Notepad++
+- 重启 Notepad++，在语言菜单下可以看到自定义的 Markdown 高亮规则
