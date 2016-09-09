@@ -1,1 +1,1 @@
-我的GitHub Blog，https://dycc.github.io/。
+我的GitHub Blog，https://dycc.github.io。
