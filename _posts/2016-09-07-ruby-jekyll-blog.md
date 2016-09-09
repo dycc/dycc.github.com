@@ -1,6 +1,7 @@
 ---
 title: 'GitHub+Ruby+DevKit+Jekyll搭建博客'
 layout: post
+guid: urn:uuid:2016-09-07-ruby-jekyll-blog
 tags:
     - GitHub
     - Ruby
