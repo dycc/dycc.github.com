@@ -1,0 +1,25 @@
+周工作报告：2014/9/27
+2014-9-27
+report-on-the-work-week-2014927
+一、基本情况
+        1.姓名：XXX
+        2.职务：软件工程师
+        3.时间：2014/9/27
+
+二、本周工作内容
+        1. GS608A
+                A. loop
+                        ⑴描述：完成loop驱动
+                        ⑵完成度：100%完成
+                B. sys_linkchange_init
+                        ⑴描述：加入sys_linkchange_init函数
+                        ⑵完成度：100%完成
+                C. fix bugs
+                        ⑴描述：本月完成的qos，loop，rate等等模块debug
+                        ⑵完成度：100%完成
+
+三、本周工作总结
+        本周完成debug。
+
+四、工作建议
+        下周将放假^_^

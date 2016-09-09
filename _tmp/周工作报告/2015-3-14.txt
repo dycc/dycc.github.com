@@ -1,0 +1,22 @@
+周工作报告：2015/3/14
+2015-3-14
+report-on-the-work-week-2015314
+一、基本情况
+        1.姓名：XXX
+        2.职务：软件工程师
+        3.时间：2015/3/14
+
+二、本周工作内容
+        1. GS608A
+                A. add jumbo
+                        ⑴描述：add jumbo frame module
+                        ⑵完成度：100%完成
+                B. delete jumbo
+                        ⑴描述：delete jumbo module in bb2soc_port.c
+                        ⑵完成度：100%完成
+
+三、本周工作总结
+        本周debug。
+
+四、工作建议
+        下周将继续debug。

@@ -1,0 +1,25 @@
+周工作报告：2014/11/1
+2014-11-1
+report-on-the-work-week-2014111
+一、基本情况
+        1.姓名：XXX
+        2.职务：软件工程师
+        3.时间：2014/11/1
+
+二、本周工作内容
+        1. GS608A
+                A. web
+                        ⑴描述：加入qos，rate，loop，link的页面
+                        ⑵完成度：100%完成
+                B. fix web page bug
+                        ⑴描述：fix web page bug
+                        ⑵完成度：100%完成
+                C. igmp cli
+                        ⑴描述：IGMP的cli界面更新
+                        ⑵完成度：100%完成
+
+三、本周工作总结
+        本周完成web页面和IGMP模块cli的调试。
+
+四、工作建议
+        下周将继续IGMP代码的修改。

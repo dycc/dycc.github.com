@@ -1,0 +1,25 @@
+周工作报告：2015/1/31
+2015-1-31
+report-on-the-work-week-2015131
+一、基本情况
+        1.姓名：XXX
+        2.职务：软件工程师
+        3.时间：2015/1/31
+
+二、本周工作内容
+        1. GS608A
+                A. bugs
+                        ⑴描述：fix a lot of bug, include igmp rate qos web and callback
+                        ⑵完成度：80%未完成
+                B. init
+                        ⑴描述：加入rate和qos的init函数
+                        ⑵完成度：100%完成
+                C. fdb/qos
+                        ⑴描述：fix web page and fdb/qos driver
+                        ⑵完成度：100%完成
+
+三、本周工作总结
+        本周专门修改web页面并添加rate和qos的init函数。
+
+四、工作建议
+        下周将继续修改web页面并debug。

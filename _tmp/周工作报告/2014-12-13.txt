@@ -1,0 +1,22 @@
+周工作报告：2014/12/13
+2014-12-13
+report-on-the-work-week-20141213
+一、基本情况
+        1.姓名：XXX
+        2.职务：软件工程师
+        3.时间：2014/12/13
+
+二、本周工作内容
+        1. GS608A
+                A. debug
+                        ⑴描述：debug包括LED，link，qos，rate，fdb驱动
+                        ⑵完成度：94%未完成
+                A. jumbo
+                        ⑴描述：加入jumbo frame模块驱动
+                        ⑵完成度：100%完成
+
+三、本周工作总结
+        本周专门debug并完成jumbo frame模块。
+
+四、工作建议
+        下周将继续修复bug，继续IGMP模块修改。
