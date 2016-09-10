@@ -1,9 +1,9 @@
 ---
-title: about
+title: about me
 layout: page
 ---
 
-> Minimalist | Appleist | Unixer | Coder
+> _`Coder`_ | _`Embedded`_ | _`Driver`_ | _`Linux`_ | _`C/C++`_
 
 who involved in 
 
