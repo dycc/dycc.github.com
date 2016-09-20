@@ -6,6 +6,8 @@ tags:
     - Linux
 ---
 
+<iframe style="float:right" frameborder="no" border="0" marginwidth="0" marginheight="0" width=330 height=86 src="http://music.163.com/outchain/player?type=2&id=480916&auto=1&height=66"></iframe>
+
 此处讨论的内核版本是linux-2.6.19 for mips-32。
 
 此内核为分时系统，调度时间为1s。
