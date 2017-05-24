@@ -1,7 +1,7 @@
 markdown: rdiscount
 highlighter: pygments
 permalink: /:year/:month/:day/:title.html
-name: "技术宅_dycc"
+name: "蜗牛科技"
 markdown: rdiscount
 
 author: "dycc"
