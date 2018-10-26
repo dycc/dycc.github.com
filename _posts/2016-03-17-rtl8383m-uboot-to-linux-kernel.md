@@ -3,7 +3,7 @@ title: 'RTL8382M从uboot跳转到Linux的过程'
 layout: post
 guid: urn:uuid:2016-03-17-rtl8383m-uboot-to-linux-kernel
 tags:
-    - 内核分析
+    - uboot分析
 ---
 
 uboot autostart的时候会调用`“rtk network on; bootm 0xb42a0000”`

@@ -3,7 +3,7 @@ title: 'RTL8382M Linux源码阅读思路 - head.s（2）'
 layout: post
 guid: urn:uuid:2016-03-19-rtl8383m-source-code-head-s-2
 tags:
-    - 内核分析
+    - kernel分析
 ---
 
 	PTR_LA		$28, init_thread_union
