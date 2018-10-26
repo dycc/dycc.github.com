@@ -3,8 +3,7 @@ title: '关于VC6release版本无法HOOK目标API的问题的探究'
 layout: post
 guid: urn:uuid:2031-04-17-peinfo-edit-and-qustion
 tags:
-    - Windows
-    - VC++6.0
+    - Windows分析
 ---
 
 <h3 style="text-align:right">————我的学习笔记</h3>

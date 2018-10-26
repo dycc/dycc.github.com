@@ -3,8 +3,7 @@ title: 'Linux中断对I2C总线的影响'
 layout: post
 guid: urn:uuid:2016-10-15-linux-interrupt-and-i2c
 tags:
-    - Linux
-    - I2C
+    - 内核分析
 ---
 
 此处讨论的内核版本是linux-2.6.19 for mips-32。

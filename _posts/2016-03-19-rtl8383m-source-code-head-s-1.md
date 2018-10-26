@@ -3,7 +3,7 @@ title: 'RTL8382M Linux源码阅读思路 - head.s（1）'
 layout: post
 guid: urn:uuid:2016-03-19-rtl8383m-source-code-head-s-1
 tags:
-    - Linux
+    - 内核分析
 ---
 
 从`kernel_entry`开始，看`kernel_entry_setup`，`cpu init`

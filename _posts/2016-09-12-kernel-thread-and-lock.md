@@ -3,7 +3,7 @@ title: 'Linux内核线程与临界区内的线程切换错误'
 layout: post
 guid: urn:uuid:2016-09-12-kernel-thread-and-lock
 tags:
-    - Linux
+    - 内核分析
 ---
 
 <iframe style="float:right" frameborder="no" border="0" marginwidth="0" marginheight="0" width=330 height=86 src="http://music.163.com/outchain/player?type=2&id=480916&auto=1&height=66"></iframe>

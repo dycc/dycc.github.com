@@ -3,9 +3,7 @@ title: '关于PEinfo编写过程中遇到的各种问题'
 layout: post
 guid: urn:uuid:2031-04-17-peinfo-edit-and-qustion
 tags:
-    - Windows
-    - PE
-    - VC++6.0
+    - Windows分析
 ---
 
 在deit控件输出回车换行应该使用”\r\n”，如果使用”\n的话输出的是“|”
